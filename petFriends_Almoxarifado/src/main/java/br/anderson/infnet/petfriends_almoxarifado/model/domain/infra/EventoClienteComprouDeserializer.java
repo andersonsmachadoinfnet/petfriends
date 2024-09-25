@@ -1,4 +1,4 @@
-package br.anderson.infnet.petfriends_pedido.model.domain.infra;
+package br.anderson.infnet.petfriends_almoxarifado.model.domain.infra;
 
 import com.fasterxml.jackson.core.JacksonException;
 import com.fasterxml.jackson.core.JsonParser;
